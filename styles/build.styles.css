@@ -8,6 +8,7 @@
     background-size: cover;
     font-family: neucha;
     color: #000000;
+    overflow: hidden;
 }
 .button1 {
     background-color: aqua;
